@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07bd2170-70ad-435e-81c5-583450d3f599": {
+      "ProjectGuid": "07bd2170-70ad-435e-81c5-583450d3f599",
+      "DisplayName": "DataBindingInGauge (Package)",
+      "ColorIndex": 0
+    },
+    "4d6b0008-3fbe-403f-b78b-f6fa753711dc": {
+      "ProjectGuid": "4d6b0008-3fbe-403f-b78b-f6fa753711dc",
+      "DisplayName": "DataBindingInGauge",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
